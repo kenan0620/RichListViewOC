@@ -1,0 +1,27 @@
+PODS:
+  - Masonry (1.1.0)
+  - RichListViewOC (0.1.0):
+    - Masonry
+    - YYText
+  - YYText (1.0.7)
+
+DEPENDENCIES:
+  - RichListViewOC (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+    - YYText
+
+EXTERNAL SOURCES:
+  RichListViewOC:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  RichListViewOC: 5cc24312ec8037042cd9d7fd89c54be34f525e96
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+
+PODFILE CHECKSUM: 0802c5c5958c896201f04c9a73ab0c7eb1318e7f
+
+COCOAPODS: 1.11.2

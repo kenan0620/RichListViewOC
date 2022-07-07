@@ -1,0 +1,6 @@
+framework module RichListViewOC {
+  umbrella header "RichListViewOC-umbrella.h"
+
+  export *
+  module * { export * }
+}
